@@ -1,0 +1,16 @@
+{
+    "multipart": [
+		{ "when": { "distance": 0 }, "apply": { "model": "rustic:grape_leaves_0" } },
+		{ "when": { "distance": 0 }, "apply": { "model": "rustic:grape_stem_top" } },
+		{ "when": { "distance": 1, "axis": "x" }, "apply": { "model": "rustic:grape_leaves_1", "y": 90 } },
+		{ "when": { "distance": 1, "axis": "z" }, "apply": { "model": "rustic:grape_leaves_1" } },
+		
+		{ "when": { "axis": "x" }, "apply": { "model": "rustic:grape_vine", "y": 90 } },
+		{ "when": { "axis": "z" }, "apply": { "model": "rustic:grape_vine" } },
+		
+		{ "when": { "grapes": "true" }, "apply": { "model": "rustic:grapes" } },
+		
+        { "when": { "axis": "x" }, "apply": { "model": "rustic:rope_horizontal", "y": 90 } },
+        { "when": { "axis": "z" }, "apply": { "model": "rustic:rope_horizontal" } }
+    ]
+}

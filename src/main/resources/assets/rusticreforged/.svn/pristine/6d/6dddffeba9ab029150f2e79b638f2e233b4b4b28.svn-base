@@ -1,0 +1,30 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "forge:fluid",
+		"transform": "forge:default-item"
+	},
+	"variants": {
+		"oliveoil": [{
+			"custom": { "fluid": "oliveoil" }
+		}],
+		"ironberryjuice": [{
+			"custom": { "fluid": "ironberryjuice" }
+		}],
+		"wildberryjuice": [{
+			"custom": { "fluid": "wildberryjuice" }
+		}],
+		"grapejuice": [{
+			"custom": { "fluid": "grapejuice" }
+		}],
+		"applejuice": [{
+			"custom": { "fluid": "applejuice" }
+		}],
+		"alewort": [{
+			"custom": { "fluid": "alewort" }
+		}],
+		"honey": [{
+			"custom": { "fluid": "honey" }
+		}]
+	}
+}
