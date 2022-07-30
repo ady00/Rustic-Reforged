@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "rusticreforged:stone_pillar",
+    "rusticreforged:andesite_pillar",
+    "rusticreforged:granite_pillar",
+    "rusticreforged:diorite_pillar",
+    "rusticreforged:slate_pillar"
+  ]
+}

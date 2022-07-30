@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "rusticreforged:slate"
+    }
+  },
+  "result": {
+    "count": 3,
+    "item": "rusticreforged:slate_pillar"
+  }
+}
