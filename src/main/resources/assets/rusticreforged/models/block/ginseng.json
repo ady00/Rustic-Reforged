@@ -1,6 +1,6 @@
 {
     "parent": "block/cross",
     "textures": {
-        "cross": "rustic:blocks/herbs/ginseng"
+        "cross": "rusticreforged:blocks/herbs/ginseng"
     }
 }

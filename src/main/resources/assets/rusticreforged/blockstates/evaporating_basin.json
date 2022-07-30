@@ -1,5 +1,5 @@
 {
 	"variants": {
-		"normal":	{ "model": "rustic:evaporating_basin" }
+		"normal":	{ "model": "rusticreforged:evaporating_basin" }
 	}
 }

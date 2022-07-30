@@ -3,12 +3,12 @@
 	"group": "minecraft:planks",
 	"ingredients": [
 		{
-			"item": "rustic:log",
+			"item": "rusticreforged:log",
 			"data": 1
 		}
 	],
 	"result": {
-		"item": "rustic:planks",
+		"item": "rusticreforged:planks",
 		"data": 1,
 		"count": 4
 	}

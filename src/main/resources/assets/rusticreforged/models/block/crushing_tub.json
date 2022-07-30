@@ -2,8 +2,8 @@
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
         "0": "blocks/planks_oak",
-        "1": "rustic:blocks/crushing_tub",
-	"particle": "rustic:blocks/crushing_tub"
+        "1": "rusticreforged:blocks/crushing_tub",
+	"particle": "rusticreforged:blocks/crushing_tub"
     },
     "elements": [
         {

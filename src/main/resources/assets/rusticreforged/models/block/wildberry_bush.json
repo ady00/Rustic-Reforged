@@ -2,8 +2,8 @@
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
         "0": "blocks/log_oak",
-        "1": "rustic:blocks/wildberry_bush_leaves",
-	"particle": "rustic:blocks/wildberry_bush_leaves"
+        "1": "rusticreforged:blocks/wildberry_bush_leaves",
+	"particle": "rusticreforged:blocks/wildberry_bush_leaves"
     },
     "elements": [
         {

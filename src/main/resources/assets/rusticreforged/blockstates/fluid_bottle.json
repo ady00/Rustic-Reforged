@@ -2,7 +2,7 @@
 	"forge_marker": 1,
 	"defaults": {
 		"transform": "forge:default-item",
-		"model": "rustic:fluid_bottle"
+		"model": "rusticreforged:fluid_bottle"
 	},
 	"variants": {
 		"inventory": {

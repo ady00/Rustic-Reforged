@@ -1,8 +1,8 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
-        "0": "rustic:blocks/iron_lattice",
-	"particle": "rustic:blocks/iron_lattice"
+        "0": "rusticreforged:blocks/iron_lattice",
+	"particle": "rusticreforged:blocks/iron_lattice"
     },
     "elements": [
         {

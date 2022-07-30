@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "rustic:items/door_olive"
+        "layer0": "rusticreforged:items/door_olive"
     }
 }

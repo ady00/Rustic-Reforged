@@ -1,8 +1,8 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
-        "texture": "rustic:blocks/cabinet",
-        "particle": "rustic:blocks/cabinet"
+        "texture": "rusticreforged:blocks/cabinet",
+        "particle": "rusticreforged:blocks/cabinet"
     },
     "elements": [
         {

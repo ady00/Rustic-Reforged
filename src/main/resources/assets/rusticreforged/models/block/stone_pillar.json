@@ -1,8 +1,8 @@
 {
 	"parent": "block/cube_column",
 	"textures": {
-		"side": "rustic:blocks/pillar_stone_side",
-		"end": "rustic:blocks/pillar_stone_top",
-		"particle": "rustic:blocks/pillar_stone_side"
+		"side": "rusticreforged:blocks/pillar_stone_side",
+		"end": "rusticreforged:blocks/pillar_stone_top",
+		"particle": "rusticreforged:blocks/pillar_stone_side"
 	}
 }

@@ -1,8 +1,8 @@
 {
-    "parent": "rustic:block/lantern_wall",
+    "parent": "rusticreforged:block/lantern_wall",
     "textures": {
-        "top": "rustic:blocks/lantern_top_gold",
-				"side": "rustic:blocks/lantern_side_gold",
-				"particle": "rustic:blocks/lantern_side_gold"
+        "top": "rusticreforged:blocks/lantern_top_gold",
+				"side": "rusticreforged:blocks/lantern_side_gold",
+				"particle": "rusticreforged:blocks/lantern_side_gold"
     }
 }

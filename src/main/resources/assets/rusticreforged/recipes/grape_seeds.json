@@ -2,10 +2,10 @@
 	"type": "forge:ore_shapeless",
 	"ingredients": [
 		{
-			"item": "rustic:grapes"
+			"item": "rusticreforged:grapes"
 		}
 	],
 	"result": {
-		"item": "rustic:grape_stem"
+		"item": "rusticreforged:grape_stem"
 	}
 }

@@ -1,13 +1,13 @@
 {
 	"multipart": [
-		{ "apply": {"model": "rustic:table_oak_top"} },
+		{ "apply": {"model": "rusticreforged:table_oak_top"} },
 		{ "when": {"nw": "true"},
-		  "apply": {"model": "rustic:table_oak_leg_nw"} },
+		  "apply": {"model": "rusticreforged:table_oak_leg_nw"} },
 		{ "when": {"ne": "true"},
-		  "apply": {"model": "rustic:table_oak_leg_nw", "y": 90} },
+		  "apply": {"model": "rusticreforged:table_oak_leg_nw", "y": 90} },
 		{ "when": {"se": "true"},
-		  "apply": {"model": "rustic:table_oak_leg_nw", "y": 180} },
+		  "apply": {"model": "rusticreforged:table_oak_leg_nw", "y": 180} },
 		{ "when": {"sw": "true"},
-		  "apply": {"model": "rustic:table_oak_leg_nw", "y": 270} }
+		  "apply": {"model": "rusticreforged:table_oak_leg_nw", "y": 270} }
 	]
 }

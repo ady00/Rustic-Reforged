@@ -1,9 +1,9 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
-        "chandelier": "rustic:blocks/chandelier",
-        "chain": "rustic:blocks/chain",
-				"particle": "rustic:blocks/chandelier"
+        "chandelier": "rusticreforged:blocks/chandelier",
+        "chain": "rusticreforged:blocks/chain",
+				"particle": "rusticreforged:blocks/chandelier"
     },
     "elements": [
         {

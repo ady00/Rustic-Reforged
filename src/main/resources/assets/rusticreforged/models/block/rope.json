@@ -1,8 +1,8 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
-        "0": "rustic:blocks/rope",
-	"particle": "rustic:blocks/rope"
+        "0": "rusticreforged:blocks/rope",
+	"particle": "rusticreforged:blocks/rope"
     },
     "elements": [
         {

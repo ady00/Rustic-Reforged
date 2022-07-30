@@ -1,14 +1,14 @@
 {
     "forge_marker": 1,
-    "defaults": { "model": "rustic:rope_horizontal" },
+    "defaults": { "model": "rusticreforged:rope_horizontal" },
     "variants": {
         "axis": {
-            "y": { "model": "rustic:rope" },
-            "z": { "model": "rustic:rope_horizontal" },
-            "x": { "model": "rustic:rope_horizontal", "y": 90 }
+            "y": { "model": "rusticreforged:rope" },
+            "z": { "model": "rusticreforged:rope_horizontal" },
+            "x": { "model": "rusticreforged:rope_horizontal", "y": 90 }
         },
         "dangle": {
-            "true": { "submodel": { "dangle": { "model": "rustic:rope_dangle" }, "knot": {"model": "rustic:rope_knot"} } },
+            "true": { "submodel": { "dangle": { "model": "rusticreforged:rope_dangle" }, "knot": {"model": "rusticreforged:rope_knot"} } },
             "false": {}
         },
 	"inventory": []

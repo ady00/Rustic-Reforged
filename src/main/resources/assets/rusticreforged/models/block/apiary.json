@@ -3,7 +3,7 @@
     "textures": {
         "0": "blocks/log_oak",
         "1": "blocks/log_oak_top",
-        "2": "rustic:blocks/apiary_front",
+        "2": "rusticreforged:blocks/apiary_front",
         "3": "blocks/planks_oak",
 	"particle": "blocks/planks_oak"
     },

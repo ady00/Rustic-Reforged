@@ -1,10 +1,10 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
-        "0": "rustic:blocks/vase_side_3",
-        "1": "rustic:blocks/vase_top_3",
-        "2": "rustic:blocks/vase_bottom_3",
-	"particle": "rustic:blocks/vase_side_3"
+        "0": "rusticreforged:blocks/vase_side_3",
+        "1": "rusticreforged:blocks/vase_top_3",
+        "2": "rusticreforged:blocks/vase_bottom_3",
+	"particle": "rusticreforged:blocks/vase_side_3"
     },
     "elements": [
         {

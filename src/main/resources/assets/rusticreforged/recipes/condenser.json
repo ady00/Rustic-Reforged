@@ -1,6 +1,6 @@
 {
 	"type": "forge:ore_shaped",
-	"group": "rustic:condenser",
+	"group": "rusticreforged:condenser",
 	"pattern": [
 		" B ",
 		"BEB",
@@ -19,6 +19,6 @@
 		}
 	},
 	"result": {
-		"item": "rustic:condenser"
+		"item": "rusticreforged:condenser"
 	}
 }

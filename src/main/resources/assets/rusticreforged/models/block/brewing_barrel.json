@@ -1,9 +1,9 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
-        "0": "rustic:blocks/brewing_barrel_front",
-        "1": "rustic:blocks/brewing_barrel_side",
-	"particle": "rustic:blocks/brewing_barrel_side"
+        "0": "rusticreforged:blocks/brewing_barrel_front",
+        "1": "rusticreforged:blocks/brewing_barrel_side",
+	"particle": "rusticreforged:blocks/brewing_barrel_side"
     },
     "elements": [
         {

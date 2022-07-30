@@ -8,12 +8,12 @@
   ],
   "key": {
     "P": {
-		"item": "rustic:planks",
+		"item": "rusticreforged:planks",
 		"data": 1
 	}
   },
   "result": {
-    "item": "rustic:stairs_ironwood",
+    "item": "rusticreforged:stairs_ironwood",
 	"count": 4
   }
 }

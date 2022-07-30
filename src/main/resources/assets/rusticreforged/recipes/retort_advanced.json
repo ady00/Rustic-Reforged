@@ -1,6 +1,6 @@
 {
 	"type": "forge:ore_shaped",
-	"group": "rustic:retort",
+	"group": "rusticreforged:retort",
 	"pattern": [
 		" B",
 		"IE",
@@ -19,6 +19,6 @@
 		}
 	},
 	"result": {
-		"item": "rustic:retort_advanced"
+		"item": "rusticreforged:retort_advanced"
 	}
 }

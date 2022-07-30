@@ -8,12 +8,12 @@
   ],
   "key": {
     "#": {
-      "item": "rustic:planks",
+      "item": "rusticreforged:planks",
       "data": 0
     }
   },
   "result": {
-    "item": "rustic:olive_door",
+    "item": "rusticreforged:olive_door",
 	"count": 3
   }
 }

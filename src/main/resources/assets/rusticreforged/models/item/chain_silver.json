@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "rustic:blocks/chain_silver"
+        "layer0": "rusticreforged:blocks/chain_silver"
     }
 }

@@ -1,6 +1,6 @@
 {
     "parent": "block/cross",
     "textures": {
-        "cross": "rustic:blocks/herbs/blood_orchid"
+        "cross": "rusticreforged:blocks/herbs/blood_orchid"
     }
 }

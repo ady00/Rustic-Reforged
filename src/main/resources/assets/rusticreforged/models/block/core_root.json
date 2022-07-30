@@ -1,6 +1,6 @@
 {
     "parent": "block/cross",
     "textures": {
-        "cross": "rustic:blocks/herbs/core_root"
+        "cross": "rusticreforged:blocks/herbs/core_root"
     }
 }

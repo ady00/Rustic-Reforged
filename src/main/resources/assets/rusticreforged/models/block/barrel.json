@@ -2,8 +2,8 @@
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
         "0": "minecraft:blocks/planks_oak",
-        "1": "rustic:blocks/barrel",
-	"particle": "rustic:blocks/barrel"
+        "1": "rusticreforged:blocks/barrel",
+	"particle": "rusticreforged:blocks/barrel"
     },
     "elements": [
         {

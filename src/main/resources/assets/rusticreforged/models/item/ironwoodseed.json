@@ -1,6 +1,6 @@
 {
     "parent":"dynamictrees:item/standardseed",
     "textures": {
-        "layer0":"rustic:items/ironwoodseed"
+        "layer0":"rusticreforged:items/ironwoodseed"
     }
 }

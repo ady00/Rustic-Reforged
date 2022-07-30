@@ -1,6 +1,6 @@
 {
     "parent": "block/cross",
     "textures": {
-        "cross": "rustic:blocks/herbs/horsetail"
+        "cross": "rusticreforged:blocks/herbs/horsetail"
     }
 }

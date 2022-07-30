@@ -1,6 +1,6 @@
 {
 	"parent": "block/cube_all",
 	"textures": {
-		"all": "rustic:blocks/log_olive"
+		"all": "rusticreforged:blocks/log_olive"
 	}
 }

@@ -1,5 +1,5 @@
 {
 	"variants": {
-		"normal":	{ "model": "rustic:crop_stake" }
+		"normal":	{ "model": "rusticreforged:crop_stake" }
 	}
 }

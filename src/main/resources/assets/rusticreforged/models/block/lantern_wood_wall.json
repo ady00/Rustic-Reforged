@@ -2,10 +2,10 @@
 	"parent": "block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "rustic:blocks/lantern_wood",
-		"1": "rustic:blocks/lantern_wood_bits",
-		"2": "rustic:blocks/lantern_wood_glass",
-		"particle": "rustic:blocks/lantern_wood"
+		"0": "rusticreforged:blocks/lantern_wood",
+		"1": "rusticreforged:blocks/lantern_wood_bits",
+		"2": "rusticreforged:blocks/lantern_wood_glass",
+		"particle": "rusticreforged:blocks/lantern_wood"
 	},
 	"elements": [
 		{

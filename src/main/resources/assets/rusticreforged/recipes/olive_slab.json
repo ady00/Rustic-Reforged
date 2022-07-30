@@ -6,12 +6,12 @@
   ],
   "key": {
     "P": {
-		"item": "rustic:planks",
+		"item": "rusticreforged:planks",
 		"data": 0
 	}
   },
   "result": {
-    "item": "rustic:olive_slab_item",
+    "item": "rusticreforged:olive_slab_item",
 	"count": 6
   }
 }

@@ -1,11 +1,11 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
-        "0": "rustic:blocks/retort_front",
-        "1": "rustic:blocks/retort_side",
-        "2": "rustic:blocks/retort_top",
-        "3": "rustic:blocks/condenser_top",
-	"particle": "rustic:blocks/retort_side"
+        "0": "rusticreforged:blocks/retort_front",
+        "1": "rusticreforged:blocks/retort_side",
+        "2": "rusticreforged:blocks/retort_top",
+        "3": "rusticreforged:blocks/condenser_top",
+	"particle": "rusticreforged:blocks/retort_side"
     },
     "elements": [
         {

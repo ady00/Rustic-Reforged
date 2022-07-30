@@ -1,9 +1,9 @@
 {
 	"parent": "block/upper_slab",
 	"textures": {
-        	"bottom": "rustic:blocks/slate_brick",
-        	"top": "rustic:blocks/slate_brick",
-        	"side": "rustic:blocks/slate_brick",
-        	"particle": "rustic:blocks/slate_brick"
+        	"bottom": "rusticreforged:blocks/slate_brick",
+        	"top": "rusticreforged:blocks/slate_brick",
+        	"side": "rusticreforged:blocks/slate_brick",
+        	"particle": "rusticreforged:blocks/slate_brick"
     	}
 }

@@ -1,6 +1,6 @@
 {
-    "parent": "rustic:block/chain_dangle",
+    "parent": "rusticreforged:block/chain_dangle",
     "textures": {
-        "chain": "rustic:blocks/chain_gold"
+        "chain": "rusticreforged:blocks/chain_gold"
     }
 }

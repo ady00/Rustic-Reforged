@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "rustic:blocks/rope"
+        "layer0": "rusticreforged:blocks/rope"
     }
 }

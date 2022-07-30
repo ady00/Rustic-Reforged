@@ -11,11 +11,11 @@
 		"ore": "stickWood"
     },
     "P": {
-		"item": "rustic:planks",
+		"item": "rusticreforged:planks",
 		"data": 0
 	}
   },
   "result": {
-    "item": "rustic:fence_gate_olive"
+    "item": "rusticreforged:fence_gate_olive"
   }
 }

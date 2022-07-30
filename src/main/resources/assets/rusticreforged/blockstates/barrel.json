@@ -1,5 +1,5 @@
 {
 	"variants": {
-		"normal":	{ "model": "rustic:barrel" }
+		"normal":	{ "model": "rusticreforged:barrel" }
 	}
 }

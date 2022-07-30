@@ -1,10 +1,10 @@
 {
 	"textures": {
-		"top": "rustic:blocks/lantern_top",
-		"side": "rustic:blocks/lantern_side",
+		"top": "rusticreforged:blocks/lantern_top",
+		"side": "rusticreforged:blocks/lantern_side",
 		"2": "minecraft:blocks/glass",
 		"3": "minecraft:blocks/torch_on",
-		"particle": "rustic:blocks/lantern_side"
+		"particle": "rusticreforged:blocks/lantern_side"
 	},
 	"elements": [
 		{

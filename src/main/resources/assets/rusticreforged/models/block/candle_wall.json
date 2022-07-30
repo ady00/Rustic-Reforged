@@ -1,8 +1,8 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
-        "candle": "rustic:blocks/candle",
-				"particle": "rustic:blocks/candle"
+        "candle": "rusticreforged:blocks/candle",
+				"particle": "rusticreforged:blocks/candle"
     },
     "elements": [
         {

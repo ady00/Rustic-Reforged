@@ -11,12 +11,12 @@
 		"ore": "stickWood"
     },
     "P": {
-		"item": "rustic:planks",
+		"item": "rusticreforged:planks",
 		"data": 1
 	}
   },
   "result": {
-    "item": "rustic:fence_ironwood",
+    "item": "rusticreforged:fence_ironwood",
 	"count": 3
   }
 }

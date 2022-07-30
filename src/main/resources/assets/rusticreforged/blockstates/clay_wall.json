@@ -1,5 +1,5 @@
 {
 	"variants": {
-		"normal":	{ "model": "rustic:clay_wall" }
+		"normal":	{ "model": "rusticreforged:clay_wall" }
 	}
 }

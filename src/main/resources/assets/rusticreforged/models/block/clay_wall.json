@@ -1,6 +1,6 @@
 {
 	"parent": "block/cube_all",
 	"textures": {
-		"all": "rustic:blocks/clay_wall"
+		"all": "rusticreforged:blocks/clay_wall"
 	}
 }

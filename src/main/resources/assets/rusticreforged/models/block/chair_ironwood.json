@@ -1,8 +1,8 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
-        "0": "rustic:blocks/planks_ironwood",
-	"particle": "rustic:blocks/planks_ironwood"
+        "0": "rusticreforged:blocks/planks_ironwood",
+	"particle": "rusticreforged:blocks/planks_ironwood"
     },
     "elements": [
         {

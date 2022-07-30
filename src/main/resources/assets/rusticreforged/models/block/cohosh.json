@@ -1,6 +1,6 @@
 {
     "parent": "block/cross",
     "textures": {
-        "cross": "rustic:blocks/herbs/cohosh"
+        "cross": "rusticreforged:blocks/herbs/cohosh"
     }
 }

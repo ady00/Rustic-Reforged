@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "rustic:items/grapes"
+        "layer0": "rusticreforged:items/grapes"
     }
 }

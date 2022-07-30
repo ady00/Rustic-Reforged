@@ -1,12 +1,12 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
-        "0": "rustic:blocks/condenser_front",
-        "1": "rustic:blocks/condenser_side",
-        "2": "rustic:blocks/condenser_bottom",
-        "3": "rustic:blocks/condenser_top_side",
+        "0": "rusticreforged:blocks/condenser_front",
+        "1": "rusticreforged:blocks/condenser_side",
+        "2": "rusticreforged:blocks/condenser_bottom",
+        "3": "rusticreforged:blocks/condenser_top_side",
         "4": "blocks/brick",
-        "5": "rustic:blocks/condenser_top"
+        "5": "rusticreforged:blocks/condenser_top"
     },
     "elements": [
         {

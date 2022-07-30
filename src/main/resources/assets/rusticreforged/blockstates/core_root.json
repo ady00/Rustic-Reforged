@@ -2,12 +2,12 @@
 
     "variants": {
 
-        "age=0": { "model": "rustic:core_root_seed" },
+        "age=0": { "model": "rusticreforged:core_root_seed" },
 
-        "age=1": { "model": "rustic:core_root_seed" },
+        "age=1": { "model": "rusticreforged:core_root_seed" },
 
-        "age=2": { "model": "rustic:core_root_seed" },
+        "age=2": { "model": "rusticreforged:core_root_seed" },
 
-        "age=3": { "model": "rustic:core_root" }
+        "age=3": { "model": "rusticreforged:core_root" }
     }
 }

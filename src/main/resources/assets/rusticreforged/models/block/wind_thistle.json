@@ -1,6 +1,6 @@
 {
     "parent": "block/cross",
     "textures": {
-        "cross": "rustic:blocks/herbs/wind_thistle"
+        "cross": "rusticreforged:blocks/herbs/wind_thistle"
     }
 }

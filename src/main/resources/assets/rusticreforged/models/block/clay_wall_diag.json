@@ -1,9 +1,9 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
-        "0": "rustic:blocks/clay_wall",
-        "1": "rustic:blocks/clay_wall_diag",
-	"particle": "rustic:blocks/clay_wall_diag"
+        "0": "rusticreforged:blocks/clay_wall",
+        "1": "rusticreforged:blocks/clay_wall_diag",
+	"particle": "rusticreforged:blocks/clay_wall_diag"
     },
     "elements": [
         {

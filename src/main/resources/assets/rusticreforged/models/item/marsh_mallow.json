@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "rustic:items/herbs/marsh_mallow"
+        "layer0": "rusticreforged:items/herbs/marsh_mallow"
     }
 }

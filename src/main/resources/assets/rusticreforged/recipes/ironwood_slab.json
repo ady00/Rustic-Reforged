@@ -6,12 +6,12 @@
   ],
   "key": {
     "P": {
-		"item": "rustic:planks",
+		"item": "rusticreforged:planks",
 		"data": 1
 	}
   },
   "result": {
-    "item": "rustic:ironwood_slab_item",
+    "item": "rusticreforged:ironwood_slab_item",
 	"count": 6
   }
 }

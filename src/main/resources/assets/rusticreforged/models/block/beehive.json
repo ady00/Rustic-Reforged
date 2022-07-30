@@ -1,10 +1,10 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
-        "0": "rustic:blocks/beehive_front",
-        "1": "rustic:blocks/beehive",
-        "2": "rustic:blocks/beehive_top",
-	"particle": "rustic:blocks/beehive"
+        "0": "rusticreforged:blocks/beehive_front",
+        "1": "rusticreforged:blocks/beehive",
+        "2": "rusticreforged:blocks/beehive_top",
+	"particle": "rusticreforged:blocks/beehive"
     },
     "elements": [
         {

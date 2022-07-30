@@ -4,8 +4,8 @@
 
 	"textures": {
 
-		"end": "rustic:blocks/log_olive_top",
-		"side": "rustic:blocks/log_olive"
+		"end": "rusticreforged:blocks/log_olive_top",
+		"side": "rusticreforged:blocks/log_olive"
 
 	}
 

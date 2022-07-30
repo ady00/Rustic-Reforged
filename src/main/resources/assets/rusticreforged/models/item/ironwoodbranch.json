@@ -1,7 +1,7 @@
 {
     "parent": "dynamictrees:item/branch",
     "textures": {
-        "bark": "rustic:blocks/log_ironwood",
-        "rings": "rustic:blocks/log_ironwood_top"
+        "bark": "rusticreforged:blocks/log_ironwood",
+        "rings": "rusticreforged:blocks/log_ironwood_top"
     }
 }

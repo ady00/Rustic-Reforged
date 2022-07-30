@@ -1,5 +1,5 @@
 {
 	"variants": {
-		"normal":	{ "model": "rustic:slate_brick" }
+		"normal":	{ "model": "rusticreforged:slate_brick" }
 	}
 }

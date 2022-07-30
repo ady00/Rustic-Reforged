@@ -1,6 +1,6 @@
 {
     "parent": "block/wall_gate_closed",
     "textures": {
-        "texture": "rustic:blocks/planks_ironwood"
+        "texture": "rusticreforged:blocks/planks_ironwood"
     }
 }

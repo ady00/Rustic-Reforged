@@ -1,8 +1,8 @@
 {
-    "parent": "rustic:block/chandelier",
+    "parent": "rusticreforged:block/chandelier",
     "textures": {
-        "chandelier": "rustic:blocks/chandelier_gold",
-				"chain": "rustic:blocks/chain_gold",
-				"particle": "rustic:blocks/chandelier_gold"
+        "chandelier": "rusticreforged:blocks/chandelier_gold",
+				"chain": "rusticreforged:blocks/chain_gold",
+				"particle": "rusticreforged:blocks/chandelier_gold"
     }
 }

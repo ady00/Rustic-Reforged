@@ -4,8 +4,8 @@
 
 	"textures": {
 
-		"end": "rustic:blocks/log_ironwood_top",
-		"side": "rustic:blocks/log_ironwood"
+		"end": "rusticreforged:blocks/log_ironwood_top",
+		"side": "rusticreforged:blocks/log_ironwood"
 
 	}
 

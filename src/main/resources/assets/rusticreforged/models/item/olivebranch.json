@@ -1,7 +1,7 @@
 {
     "parent": "dynamictrees:item/branch",
     "textures": {
-        "bark": "rustic:blocks/log_olive",
-        "rings": "rustic:blocks/log_olive_top"
+        "bark": "rusticreforged:blocks/log_olive",
+        "rings": "rusticreforged:blocks/log_olive_top"
     }
 }

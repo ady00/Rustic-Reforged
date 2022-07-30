@@ -1,6 +1,6 @@
 {
     "parent": "block/cross",
     "textures": {
-        "cross": "rustic:blocks/herbs/cloudsbluff"
+        "cross": "rusticreforged:blocks/herbs/cloudsbluff"
     }
 }

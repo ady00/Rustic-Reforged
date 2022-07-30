@@ -3,7 +3,7 @@
     "textures": {
         "particle": "blocks/stone",
         "0": "blocks/stone",
-        "1": "rustic:blocks/gargoyle"
+        "1": "rusticreforged:blocks/gargoyle"
     },
     "elements": [
         {

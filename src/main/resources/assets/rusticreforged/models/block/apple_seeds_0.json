@@ -1,6 +1,6 @@
 {
     "parent": "block/cross",
     "textures": {
-        "cross": "rustic:blocks/apple_seeds_0"
+        "cross": "rusticreforged:blocks/apple_seeds_0"
     }
 }

@@ -11,11 +11,11 @@
 			"ore": "ingotIron"
 		},
 		"C": {
-			"item": "rustic:chain"
+			"item": "rusticreforged:chain"
 		}
 	},
 	"result": {
-		"item": "rustic:chandelier",
+		"item": "rusticreforged:chandelier",
 		"count": 2
 	}
 }

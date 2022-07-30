@@ -11,11 +11,11 @@
 			"ore": "ingotGold"
 		},
 		"C": {
-			"item": "rustic:chain_gold"
+			"item": "rusticreforged:chain_gold"
 		}
 	},
 	"result": {
-		"item": "rustic:chandelier_gold",
+		"item": "rusticreforged:chandelier_gold",
 		"count": 2
 	}
 }

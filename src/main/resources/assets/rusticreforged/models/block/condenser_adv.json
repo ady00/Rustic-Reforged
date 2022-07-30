@@ -4,11 +4,11 @@
 
     "textures": {
 
-        "top": "rustic:blocks/condenser_adv_top",
+        "top": "rusticreforged:blocks/condenser_adv_top",
 
-        "front": "rustic:blocks/condenser_adv_front",
+        "front": "rusticreforged:blocks/condenser_adv_front",
 
-        "side": "rustic:blocks/condenser_adv_side"
+        "side": "rusticreforged:blocks/condenser_adv_side"
 
     }
 

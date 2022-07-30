@@ -1,7 +1,7 @@
 {
 	"parent": "block/cube_all",
 	"textures": {
-		"all": "rustic:blocks/slate_brick",
-		"particle": "rustic:blocks/slate_brick"
+		"all": "rusticreforged:blocks/slate_brick",
+		"particle": "rusticreforged:blocks/slate_brick"
 	}
 }

@@ -1,8 +1,8 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
-        "chain": "rustic:blocks/chain",
-				"particle": "rustic:blocks/chain"
+        "chain": "rusticreforged:blocks/chain",
+				"particle": "rusticreforged:blocks/chain"
     },
     "elements": [
         {

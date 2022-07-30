@@ -2,13 +2,13 @@
 
     "variants": {
 
-        "age=0": { "model": "rustic:deathstalk_mushroom_spore" },
+        "age=0": { "model": "rusticreforged:deathstalk_mushroom_spore" },
 
-        "age=1": { "model": "rustic:deathstalk_mushroom_spore" },
+        "age=1": { "model": "rusticreforged:deathstalk_mushroom_spore" },
 
-        "age=2": { "model": "rustic:deathstalk_mushroom_spore" },
+        "age=2": { "model": "rusticreforged:deathstalk_mushroom_spore" },
 
-        "age=3": { "model": "rustic:deathstalk_mushroom" }
+        "age=3": { "model": "rusticreforged:deathstalk_mushroom" }
 
     }
 }

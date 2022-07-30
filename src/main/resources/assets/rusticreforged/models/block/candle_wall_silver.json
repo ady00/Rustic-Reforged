@@ -1,7 +1,7 @@
 {
-    "parent": "rustic:block/candle_wall",
+    "parent": "rusticreforged:block/candle_wall",
     "textures": {
-        "candle": "rustic:blocks/candle_silver",
-				"particle": "rustic:blocks/candle_silver"
+        "candle": "rusticreforged:blocks/candle_silver",
+				"particle": "rusticreforged:blocks/candle_silver"
     }
 }

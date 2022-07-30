@@ -1,6 +1,6 @@
 {
 	"parent" : "item/generated",
 	"textures" : {
-		"layer0" : "rustic:items/grape_seeds"
+		"layer0" : "rusticreforged:items/grape_seeds"
 	}
 }

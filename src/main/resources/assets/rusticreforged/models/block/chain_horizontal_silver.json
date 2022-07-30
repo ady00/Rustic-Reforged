@@ -1,7 +1,7 @@
 {
-    "parent": "rustic:block/chain_horizontal",
+    "parent": "rusticreforged:block/chain_horizontal",
     "textures": {
-        "chain": "rustic:blocks/chain_silver",
-				"particle": "rustic:blocks/chain_silver"
+        "chain": "rusticreforged:blocks/chain_silver",
+				"particle": "rusticreforged:blocks/chain_silver"
     }
 }

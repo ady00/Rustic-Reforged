@@ -1,6 +1,6 @@
 {
 	"parent": "block/cube_all",
 	"textures": {
-		"all": "rustic:blocks/planks_ironwood"
+		"all": "rusticreforged:blocks/planks_ironwood"
 	}
 }
