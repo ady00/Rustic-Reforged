@@ -1,14 +1,14 @@
 {
 	"variants": {
-		"facing=north,powered=false":	{ "model": "rusticreforged:candle_wall" },
-		"facing=east,powered=false":	{ "model": "rusticreforged:candle_wall", "y": 90},
-		"facing=south,powered=false":	{ "model": "rusticreforged:candle_wall", "y": 180 },
-		"facing=west,powered=false":	{ "model": "rusticreforged:candle_wall", "y": 270 },
-		"facing=up,powered=false":		{ "model": "rusticreforged:candle" },
-		"facing=north,powered=true":	{ "model": "rusticreforged:candle_wall_pulled" },
-		"facing=east,powered=true":		{ "model": "rusticreforged:candle_wall_pulled", "y": 90},
-		"facing=south,powered=true":	{ "model": "rusticreforged:candle_wall_pulled", "y": 180 },
-		"facing=west,powered=true":		{ "model": "rusticreforged:candle_wall_pulled", "y": 270 },
-		"facing=up,powered=true":		{ "model": "rusticreforged:candle_pulled" }
+		"facing=north,powered=false":	{ "model": "rusticreforged:block/candle_wall" },
+		"facing=east,powered=false":	{ "model": "rusticreforged:block/candle_wall", "y": 90},
+		"facing=south,powered=false":	{ "model": "rusticreforged:block/candle_wall", "y": 180 },
+		"facing=west,powered=false":	{ "model": "rusticreforged:block/candle_wall", "y": 270 },
+		"facing=up,powered=false":		{ "model": "rusticreforged:block/candle" },
+		"facing=north,powered=true":	{ "model": "rusticreforged:block/candle_wall_pulled" },
+		"facing=east,powered=true":		{ "model": "rusticreforged:block/candle_wall_pulled", "y": 90},
+		"facing=south,powered=true":	{ "model": "rusticreforged:block/candle_wall_pulled", "y": 180 },
+		"facing=west,powered=true":		{ "model": "rusticreforged:block/candle_wall_pulled", "y": 270 },
+		"facing=up,powered=true":		{ "model": "rusticreforged:block/candle_pulled" }
 	}
 }

@@ -1,5 +1,5 @@
 {
     "variants": {
-        "normal": { "model": "rusticreforged:ironwoodbranch#dynamicthick" }
+        "normal": { "model": "rusticreforged:block/ironwoodbranch#dynamicthick" }
     }
 }

@@ -1,10 +1,10 @@
 {
 	"variants": {
-		"variant=0":	{ "model": "rusticreforged:vase_0" },
-		"variant=1":	{ "model": "rusticreforged:vase_1" },
-		"variant=2":	{ "model": "rusticreforged:vase_2" },
-		"variant=3":	{ "model": "rusticreforged:vase_3" },
-		"variant=4":	{ "model": "rusticreforged:vase_4" },
-		"variant=5":	{ "model": "rusticreforged:vase_5" }
+		"variant=0":	{ "model": "rusticreforged:block/vase_0" },
+		"variant=1":	{ "model": "rusticreforged:block/vase_1" },
+		"variant=2":	{ "model": "rusticreforged:block/vase_2" },
+		"variant=3":	{ "model": "rusticreforged:block/vase_3" },
+		"variant=4":	{ "model": "rusticreforged:block/vase_4" },
+		"variant=5":	{ "model": "rusticreforged:block/vase_5" }
 	}
 }

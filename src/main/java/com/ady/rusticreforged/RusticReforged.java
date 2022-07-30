@@ -1,5 +1,6 @@
 package com.ady.rusticreforged;
 
+import com.ady.rusticreforged.block.ModBlocks;
 import com.ady.rusticreforged.item.ModItems;
 import com.mojang.logging.LogUtils;
 import net.minecraftforge.common.MinecraftForge;
@@ -21,6 +22,7 @@ public class RusticReforged {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 

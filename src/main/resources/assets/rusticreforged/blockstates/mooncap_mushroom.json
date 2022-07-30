@@ -2,12 +2,12 @@
 
     "variants": {
 
-        "age=0": { "model": "rusticreforged:mooncap_mushroom_spore" },
+        "age=0": { "model": "rusticreforged:block/mooncap_mushroom_spore" },
 
-        "age=1": { "model": "rusticreforged:mooncap_mushroom_spore" },
+        "age=1": { "model": "rusticreforged:block/mooncap_mushroom_spore" },
 
-        "age=2": { "model": "rusticreforged:mooncap_mushroom_spore" },
+        "age=2": { "model": "rusticreforged:block/mooncap_mushroom_spore" },
 
-        "age=3": { "model": "rusticreforged:mooncap_mushroom" }
+        "age=3": { "model": "rusticreforged:block/mooncap_mushroom" }
     }
 }

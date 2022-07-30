@@ -1,5 +1,5 @@
 {
 	"variants": {
-		"normal":	{ "model": "rusticreforged:slate_chiseled" }
+		"normal":	{ "model": "rusticreforged:block/slate_chiseled" }
 	}
 }

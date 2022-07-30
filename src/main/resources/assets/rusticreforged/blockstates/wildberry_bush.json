@@ -1,17 +1,17 @@
 {
     "forge_marker": 1,
-    "defaults": { "model": "rusticreforged:wildberry_bush" },
+    "defaults": { "model": "rusticreforged:block/wildberry_bush" },
     "variants": {
         "berries": {
             "true": { "submodel": { "berries": [
-                { "model": "rusticreforged:wildberries_0" },
-                { "model": "rusticreforged:wildberries_0", "y": 90 },
-                { "model": "rusticreforged:wildberries_0", "y": 180 },
-                { "model": "rusticreforged:wildberries_0", "y": 270 },
-                { "model": "rusticreforged:wildberries_1" },
-                { "model": "rusticreforged:wildberries_1", "y": 90 },
-                { "model": "rusticreforged:wildberries_1", "y": 180 },
-                { "model": "rusticreforged:wildberries_1", "y": 270 }
+                { "model": "rusticreforged:block/wildberries_0" },
+                { "model": "rusticreforged:block/wildberries_0", "y": 90 },
+                { "model": "rusticreforged:block/wildberries_0", "y": 180 },
+                { "model": "rusticreforged:block/wildberries_0", "y": 270 },
+                { "model": "rusticreforged:block/wildberries_1" },
+                { "model": "rusticreforged:block/wildberries_1", "y": 90 },
+                { "model": "rusticreforged:block/wildberries_1", "y": 180 },
+                { "model": "rusticreforged:block/wildberries_1", "y": 270 }
                 ] } },
             "false": {}
         },

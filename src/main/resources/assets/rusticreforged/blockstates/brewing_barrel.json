@@ -1,8 +1,8 @@
 {
 	"variants": {
-		"facing=north":	{ "model": "rusticreforged:brewing_barrel" },
-		"facing=east":	{ "model": "rusticreforged:brewing_barrel", "y": 90},
-		"facing=south":	{ "model": "rusticreforged:brewing_barrel", "y": 180 },
-		"facing=west":	{ "model": "rusticreforged:brewing_barrel", "y": 270 }
+		"facing=north":	{ "model": "rusticreforged:block/brewing_barrel" },
+		"facing=east":	{ "model": "rusticreforged:block/brewing_barrel", "y": 90},
+		"facing=south":	{ "model": "rusticreforged:block/brewing_barrel", "y": 180 },
+		"facing=west":	{ "model": "rusticreforged:block/brewing_barrel", "y": 270 }
 	}
 }

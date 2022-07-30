@@ -2,12 +2,12 @@
 
     "variants": {
 
-        "age=0": { "model": "rusticreforged:tomato_crop_0" },
+        "age=0": { "model": "rusticreforged:block/tomato_crop_0" },
 
-        "age=1": { "model": "rusticreforged:tomato_crop_1" },
+        "age=1": { "model": "rusticreforged:block/tomato_crop_1" },
 
-        "age=2": { "model": "rusticreforged:tomato_crop_2" },
+        "age=2": { "model": "rusticreforged:block/tomato_crop_2" },
 
-        "age=3": { "model": "rusticreforged:tomato_crop_3" }
+        "age=3": { "model": "rusticreforged:block/tomato_crop_3" }
     }
 }

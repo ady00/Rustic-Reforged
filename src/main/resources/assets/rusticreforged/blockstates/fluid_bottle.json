@@ -2,14 +2,14 @@
 	"forge_marker": 1,
 	"defaults": {
 		"transform": "forge:default-item",
-		"model": "rusticreforged:fluid_bottle"
+		"model": "rusticreforged:block/fluid_bottle"
 	},
 	"variants": {
 		"inventory": {
-			"parent": "item/generated",
+			"parent": "itemgenerated",
 			"textures": {
-				"fluid": "minecraft:items/potion_overlay",
-				"bottle": "minecraft:items/potion_bottle_drinkable"
+				"fluid": "minecraft:itemspotion_overlay",
+				"bottle": "minecraft:itemspotion_bottle_drinkable"
 			},
 			"custom": { "fluid": "oliveoil" }
 		}

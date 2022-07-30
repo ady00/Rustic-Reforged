@@ -1,13 +1,13 @@
 {
 	"multipart": [
-		{ "apply": {"model": "rusticreforged:table_olive_top"} },
+		{ "apply": {"model": "rusticreforged:block/table_olive_top"} },
 		{ "when": {"nw": "true"},
-		  "apply": {"model": "rusticreforged:table_olive_leg_nw"} },
+		  "apply": {"model": "rusticreforged:block/table_olive_leg_nw"} },
 		{ "when": {"ne": "true"},
-		  "apply": {"model": "rusticreforged:table_olive_leg_nw", "y": 90} },
+		  "apply": {"model": "rusticreforged:block/table_olive_leg_nw", "y": 90} },
 		{ "when": {"se": "true"},
-		  "apply": {"model": "rusticreforged:table_olive_leg_nw", "y": 180} },
+		  "apply": {"model": "rusticreforged:block/table_olive_leg_nw", "y": 180} },
 		{ "when": {"sw": "true"},
-		  "apply": {"model": "rusticreforged:table_olive_leg_nw", "y": 270} }
+		  "apply": {"model": "rusticreforged:block/table_olive_leg_nw", "y": 270} }
 	]
 }

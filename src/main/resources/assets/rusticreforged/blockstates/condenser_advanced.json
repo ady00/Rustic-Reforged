@@ -1,12 +1,12 @@
 {
 	"variants": {
-		"bottom=true,facing=north":	{ "model": "rusticreforged:condenser_adv" },
-		"bottom=true,facing=east":	{ "model": "rusticreforged:condenser_adv", "y": 90},
-		"bottom=true,facing=south":	{ "model": "rusticreforged:condenser_adv", "y": 180 },
-		"bottom=true,facing=west":	{ "model": "rusticreforged:condenser_adv", "y": 270 },
-		"bottom=false,facing=north":	{ "model": "rusticreforged:condenser_adv_top" },
-		"bottom=false,facing=east":	{ "model": "rusticreforged:condenser_adv_top", "y": 90},
-		"bottom=false,facing=south":	{ "model": "rusticreforged:condenser_adv_top", "y": 180 },
-		"bottom=false,facing=west":	{ "model": "rusticreforged:condenser_adv_top", "y": 270 }
+		"bottom=true,facing=north":	{ "model": "rusticreforged:block/condenser_adv" },
+		"bottom=true,facing=east":	{ "model": "rusticreforged:block/condenser_adv", "y": 90},
+		"bottom=true,facing=south":	{ "model": "rusticreforged:block/condenser_adv", "y": 180 },
+		"bottom=true,facing=west":	{ "model": "rusticreforged:block/condenser_adv", "y": 270 },
+		"bottom=false,facing=north":	{ "model": "rusticreforged:block/condenser_adv_top" },
+		"bottom=false,facing=east":	{ "model": "rusticreforged:block/condenser_adv_top", "y": 90},
+		"bottom=false,facing=south":	{ "model": "rusticreforged:block/condenser_adv_top", "y": 180 },
+		"bottom=false,facing=west":	{ "model": "rusticreforged:block/condenser_adv_top", "y": 270 }
 	}
 }

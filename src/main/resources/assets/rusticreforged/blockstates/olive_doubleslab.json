@@ -1,6 +1,6 @@
 {
     "variants": {
-        "half=bottom": { "model": "rusticreforged:olive_slab_double" },
-        "half=top": { "model": "rusticreforged:olive_slab_double" }
+        "half=bottom": { "model": "rusticreforged:block/olive_slab_double" },
+        "half=top": { "model": "rusticreforged:block/olive_slab_double" }
     }
 }

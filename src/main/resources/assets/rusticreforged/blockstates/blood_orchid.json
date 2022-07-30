@@ -2,12 +2,12 @@
 
     "variants": {
 
-        "age=0": { "model": "rusticreforged:blood_orchid_seed" },
+        "age=0": { "model": "rusticreforged:block/blood_orchid_seed" },
 
-        "age=1": { "model": "rusticreforged:blood_orchid_seed" },
+        "age=1": { "model": "rusticreforged:block/blood_orchid_seed" },
 
-        "age=2": { "model": "rusticreforged:blood_orchid_seed" },
+        "age=2": { "model": "rusticreforged:block/blood_orchid_seed" },
 
-        "age=3": { "model": "rusticreforged:blood_orchid" }
+        "age=3": { "model": "rusticreforged:block/blood_orchid" }
     }
 }

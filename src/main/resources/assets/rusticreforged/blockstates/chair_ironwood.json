@@ -1,8 +1,8 @@
 {
 	"variants": {
-		"facing=north":	{ "model": "rusticreforged:chair_ironwood" },
-		"facing=east":	{ "model": "rusticreforged:chair_ironwood", "y": 90},
-		"facing=south":	{ "model": "rusticreforged:chair_ironwood", "y": 180 },
-		"facing=west":	{ "model": "rusticreforged:chair_ironwood", "y": 270 }
+		"facing=north":	{ "model": "rusticreforged:block/chair_ironwood" },
+		"facing=east":	{ "model": "rusticreforged:block/chair_ironwood", "y": 90},
+		"facing=south":	{ "model": "rusticreforged:block/chair_ironwood", "y": 180 },
+		"facing=west":	{ "model": "rusticreforged:block/chair_ironwood", "y": 270 }
 	}
 }

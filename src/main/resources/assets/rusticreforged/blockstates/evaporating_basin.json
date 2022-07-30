@@ -1,5 +1,5 @@
 {
 	"variants": {
-		"normal":	{ "model": "rusticreforged:evaporating_basin" }
+		"normal":	{ "model": "rusticreforged:block/evaporating_basin" }
 	}
 }

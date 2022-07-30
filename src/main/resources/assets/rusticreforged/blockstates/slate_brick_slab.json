@@ -1,6 +1,6 @@
 {
     "variants": {
-        "half=bottom": { "model": "rusticreforged:slate_brick_slab_bottom" },
-        "half=top": { "model": "rusticreforged:slate_brick_slab_top" }
+        "half=bottom": { "model": "rusticreforged:block/slate_brick_slab_bottom" },
+        "half=top": { "model": "rusticreforged:block/slate_brick_slab_top" }
     }
 }

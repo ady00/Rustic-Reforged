@@ -1,7 +1,7 @@
 {
 	"variants": {
-		"axis=y":	{ "model": "rusticreforged:granite_pillar" },
-		"axis=z":	{ "model": "rusticreforged:granite_pillar", "x": 90 },
-		"axis=x":	{ "model": "rusticreforged:granite_pillar", "x": 90, "y": 90 }
+		"axis=y":	{ "model": "rusticreforged:block/granite_pillar" },
+		"axis=z":	{ "model": "rusticreforged:block/granite_pillar", "x": 90 },
+		"axis=x":	{ "model": "rusticreforged:block/granite_pillar", "x": 90, "y": 90 }
 	}
 }

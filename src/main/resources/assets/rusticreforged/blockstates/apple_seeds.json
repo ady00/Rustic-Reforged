@@ -2,8 +2,8 @@
 
     "variants": {
 
-        "age=0": { "model": "rusticreforged:apple_seeds_0" },
+        "age=0": { "model": "rusticreforged:block/apple_seeds_0" },
 
-        "age=1": { "model": "rusticreforged:apple_seeds_1" }
+        "age=1": { "model": "rusticreforged:block/apple_seeds_1" }
     }
 }

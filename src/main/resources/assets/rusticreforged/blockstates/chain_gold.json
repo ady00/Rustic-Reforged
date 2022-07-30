@@ -1,9 +1,9 @@
 {
     "multipart": [
-        { "when": { "axis": "x" }, "apply": { "model": "rusticreforged:chain_horizontal_gold", "y": 90 } },
-        { "when": { "axis": "y" }, "apply": { "model": "rusticreforged:chain_gold" } },
-        { "when": { "axis": "z" }, "apply": { "model": "rusticreforged:chain_horizontal_gold" } },
-        { "when": { "axis": "x", "dangle": "true" }, "apply": { "model": "rusticreforged:chain_dangle_gold", "y": 90 } },
-        { "when": { "axis": "y|z", "dangle": "true" }, "apply": { "model": "rusticreforged:chain_dangle_gold" } }
+        { "when": { "axis": "x" }, "apply": { "model": "rusticreforged:block/chain_horizontal_gold", "y": 90 } },
+        { "when": { "axis": "y" }, "apply": { "model": "rusticreforged:block/chain_gold" } },
+        { "when": { "axis": "z" }, "apply": { "model": "rusticreforged:block/chain_horizontal_gold" } },
+        { "when": { "axis": "x", "dangle": "true" }, "apply": { "model": "rusticreforged:block/chain_dangle_gold", "y": 90 } },
+        { "when": { "axis": "y|z", "dangle": "true" }, "apply": { "model": "rusticreforged:block/chain_dangle_gold" } }
     ]
 }

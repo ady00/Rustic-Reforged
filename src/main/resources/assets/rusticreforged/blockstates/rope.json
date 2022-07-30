@@ -1,11 +1,11 @@
 {
     "multipart": [
-        { "when": { "axis": "x" }, "apply": { "model": "rusticreforged:rope_horizontal", "y": 90 } },
-        { "when": { "axis": "y" }, "apply": { "model": "rusticreforged:rope" } },
-        { "when": { "axis": "z" }, "apply": { "model": "rusticreforged:rope_horizontal" } },
-        { "when": { "axis": "x", "dangle": "true" }, "apply": { "model": "rusticreforged:rope_dangle", "y": 90 } },
-        { "when": { "axis": "x", "dangle": "true" }, "apply": { "model": "rusticreforged:rope_knot", "y": 90 } },
-        { "when": { "axis": "y|z", "dangle": "true" }, "apply": { "model": "rusticreforged:rope_dangle" } },
-        { "when": { "axis": "y|z", "dangle": "true" }, "apply": { "model": "rusticreforged:rope_knot" } }
+        { "when": { "axis": "x" }, "apply": { "model": "rusticreforged:block/rope_horizontal", "y": 90 } },
+        { "when": { "axis": "y" }, "apply": { "model": "rusticreforged:block/rope" } },
+        { "when": { "axis": "z" }, "apply": { "model": "rusticreforged:block/rope_horizontal" } },
+        { "when": { "axis": "x", "dangle": "true" }, "apply": { "model": "rusticreforged:block/rope_dangle", "y": 90 } },
+        { "when": { "axis": "x", "dangle": "true" }, "apply": { "model": "rusticreforged:block/rope_knot", "y": 90 } },
+        { "when": { "axis": "y|z", "dangle": "true" }, "apply": { "model": "rusticreforged:block/rope_dangle" } },
+        { "when": { "axis": "y|z", "dangle": "true" }, "apply": { "model": "rusticreforged:block/rope_knot" } }
     ]
 }

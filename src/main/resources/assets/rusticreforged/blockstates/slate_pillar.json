@@ -1,7 +1,7 @@
 {
 	"variants": {
-		"axis=y":	{ "model": "rusticreforged:slate_pillar" },
-		"axis=z":	{ "model": "rusticreforged:slate_pillar", "x": 90 },
-		"axis=x":	{ "model": "rusticreforged:slate_pillar", "x": 90, "y": 90 }
+		"axis=y":	{ "model": "rusticreforged:block/slate_pillar" },
+		"axis=z":	{ "model": "rusticreforged:block/slate_pillar", "x": 90 },
+		"axis=x":	{ "model": "rusticreforged:block/slate_pillar", "x": 90, "y": 90 }
 	}
 }

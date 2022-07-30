@@ -1,21 +1,21 @@
 {
     "forge_marker": 1,
-    "defaults": { "model": "rusticreforged:grape_leaves_0" },
+    "defaults": { "model": "rusticreforged:block/grape_leaves_0" },
     "variants": {
 		"distance": {
-            0: { "submodel": { "stem": { "model": "rusticreforged:grape_stem_top" } } },
-            1: { "model": "rusticreforged:grape_leaves_1" }
+            0: { "submodel": { "stem": { "model": "rusticreforged:block/grape_stem_top" } } },
+            1: { "model": "rusticreforged:block/grape_leaves_1" }
 		},
         "axis": {
-            "z": { "submodel": { "rope": { "model": "rusticreforged:rope_horizontal" }, "vine": { "model": "rusticreforged:grape_vine" } } },
-            "x": { "submodel": { "rope": { "model": "rusticreforged:rope_horizontal" }, "vine": { "model": "rusticreforged:grape_vine" } }, "y": 90 }
+            "z": { "submodel": { "rope": { "model": "rusticreforged:block/rope_horizontal" }, "vine": { "model": "rusticreforged:block/grape_vine" } } },
+            "x": { "submodel": { "rope": { "model": "rusticreforged:block/rope_horizontal" }, "vine": { "model": "rusticreforged:block/grape_vine" } }, "y": 90 }
         },
         "dangle": {
-            "true": { "submodel": { "dangle": { "model": "rusticreforged:rope_dangle" }, "knot": {"model": "rusticreforged:rope_knot"} } },
+            "true": { "submodel": { "dangle": { "model": "rusticreforged:block/rope_dangle" }, "knot": {"model": "rusticreforged:block/rope_knot"} } },
             "false": {}
         },
 		"grapes": {
-            "true": { "submodel": { "grapes": { "model": "rusticreforged:grapes" } } },
+            "true": { "submodel": { "grapes": { "model": "rusticreforged:block/grapes" } } },
             "false": {}
 		},
         "inventory": []

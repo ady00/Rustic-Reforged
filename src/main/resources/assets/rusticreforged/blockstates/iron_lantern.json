@@ -1,10 +1,10 @@
 {
 	"variants": {
-		"facing=north":	{ "model": "rusticreforged:lantern_wall" },
-		"facing=east":	{ "model": "rusticreforged:lantern_wall", "y": 90 },
-		"facing=south":	{ "model": "rusticreforged:lantern_wall", "y": 180 },
-		"facing=west":	{ "model": "rusticreforged:lantern_wall", "y": 270 },
-		"facing=up":	{ "model": "rusticreforged:lantern_up" },
-		"facing=down":	{ "model": "rusticreforged:lantern_down" }
+		"facing=north":	{ "model": "rusticreforged:block/lantern_wall" },
+		"facing=east":	{ "model": "rusticreforged:block/lantern_wall", "y": 90 },
+		"facing=south":	{ "model": "rusticreforged:block/lantern_wall", "y": 180 },
+		"facing=west":	{ "model": "rusticreforged:block/lantern_wall", "y": 270 },
+		"facing=up":	{ "model": "rusticreforged:block/lantern_up" },
+		"facing=down":	{ "model": "rusticreforged:block/lantern_down" }
 	}
 }

@@ -1,6 +1,6 @@
 {
 	"variants": {
-		"variant=olive":	{ "model": "rusticreforged:planks_olive" },
-		"variant=ironwood":	{ "model": "rusticreforged:planks_ironwood" }
+		"variant=olive":	{ "model": "rusticreforged:block/planks_olive" },
+		"variant=ironwood":	{ "model": "rusticreforged:block/planks_ironwood" }
 	}
 }

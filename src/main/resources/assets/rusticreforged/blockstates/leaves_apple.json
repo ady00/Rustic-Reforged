@@ -5,34 +5,34 @@
         "apple_age": {
             "0": {},
             "1": { "submodel": { "apples": [
-                { "model": "rusticreforged:apple_0" },
-                { "model": "rusticreforged:apple_0", "y": 90 },
-                { "model": "rusticreforged:apple_0", "y": 180 },
-                { "model": "rusticreforged:apple_0", "y": 270 },
-                { "model": "rusticreforged:apple_0_1" },
-                { "model": "rusticreforged:apple_0_1", "y": 90 },
-                { "model": "rusticreforged:apple_0_1", "y": 180 },
-                { "model": "rusticreforged:apple_0_1", "y": 270 }
+                { "model": "rusticreforged:block/apple_0" },
+                { "model": "rusticreforged:block/apple_0", "y": 90 },
+                { "model": "rusticreforged:block/apple_0", "y": 180 },
+                { "model": "rusticreforged:block/apple_0", "y": 270 },
+                { "model": "rusticreforged:block/apple_0_1" },
+                { "model": "rusticreforged:block/apple_0_1", "y": 90 },
+                { "model": "rusticreforged:block/apple_0_1", "y": 180 },
+                { "model": "rusticreforged:block/apple_0_1", "y": 270 }
                 ] } },
             "2": { "submodel": { "apples": [
-                { "model": "rusticreforged:apple_1" },
-                { "model": "rusticreforged:apple_1", "y": 90 },
-                { "model": "rusticreforged:apple_1", "y": 180 },
-                { "model": "rusticreforged:apple_1", "y": 270 },
-                { "model": "rusticreforged:apple_1_1" },
-                { "model": "rusticreforged:apple_1_1", "y": 90 },
-                { "model": "rusticreforged:apple_1_1", "y": 180 },
-                { "model": "rusticreforged:apple_1_1", "y": 270 }
+                { "model": "rusticreforged:block/apple_1" },
+                { "model": "rusticreforged:block/apple_1", "y": 90 },
+                { "model": "rusticreforged:block/apple_1", "y": 180 },
+                { "model": "rusticreforged:block/apple_1", "y": 270 },
+                { "model": "rusticreforged:block/apple_1_1" },
+                { "model": "rusticreforged:block/apple_1_1", "y": 90 },
+                { "model": "rusticreforged:block/apple_1_1", "y": 180 },
+                { "model": "rusticreforged:block/apple_1_1", "y": 270 }
                 ] } },
             "3": { "submodel": { "apples": [
-                { "model": "rusticreforged:apple_2" },
-                { "model": "rusticreforged:apple_2", "y": 90 },
-                { "model": "rusticreforged:apple_2", "y": 180 },
-                { "model": "rusticreforged:apple_2", "y": 270 },
-                { "model": "rusticreforged:apple_2_1" },
-                { "model": "rusticreforged:apple_2_1", "y": 90 },
-                { "model": "rusticreforged:apple_2_1", "y": 180 },
-                { "model": "rusticreforged:apple_2_1", "y": 270 }
+                { "model": "rusticreforged:block/apple_2" },
+                { "model": "rusticreforged:block/apple_2", "y": 90 },
+                { "model": "rusticreforged:block/apple_2", "y": 180 },
+                { "model": "rusticreforged:block/apple_2", "y": 270 },
+                { "model": "rusticreforged:block/apple_2_1" },
+                { "model": "rusticreforged:block/apple_2_1", "y": 90 },
+                { "model": "rusticreforged:block/apple_2_1", "y": 180 },
+                { "model": "rusticreforged:block/apple_2_1", "y": 270 }
                 ] } }
         },
 	"inventory": []

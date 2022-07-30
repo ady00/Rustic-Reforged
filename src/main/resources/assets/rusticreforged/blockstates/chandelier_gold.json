@@ -1,5 +1,5 @@
 {
 	"variants": {
-		"normal":	{ "model": "rusticreforged:chandelier_gold" }
+		"normal":	{ "model": "rusticreforged:block/chandelier_gold" }
 	}
 }

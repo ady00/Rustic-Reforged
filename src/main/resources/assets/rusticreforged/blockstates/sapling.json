@@ -1,6 +1,6 @@
 {
 	"variants": {
-		"variant=olive":	{ "model": "rusticreforged:sapling_olive" },
-		"variant=ironwood":	{ "model": "rusticreforged:sapling_ironwood" }
+		"variant=olive":	{ "model": "rusticreforged:block/sapling_olive" },
+		"variant=ironwood":	{ "model": "rusticreforged:block/sapling_ironwood" }
 	}
 }

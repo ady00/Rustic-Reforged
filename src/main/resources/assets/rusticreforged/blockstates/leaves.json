@@ -1,6 +1,6 @@
 {
 	"variants": {
-		"variant=olive":	{ "model": "rusticreforged:leaves_olive" },
-		"variant=ironwood":	{ "model": "rusticreforged:leaves_ironwood" }
+		"variant=olive":	{ "model": "rusticreforged:block/leaves_olive" },
+		"variant=ironwood":	{ "model": "rusticreforged:block/leaves_ironwood" }
 	}
 }

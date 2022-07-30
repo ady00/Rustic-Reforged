@@ -3,10 +3,10 @@
 	"variants": {
 		"tree": {
 			"0": {
-				"model": "rusticreforged:leaves_olive"
+				"model": "rusticreforged:block/leaves_olive"
 			},
 			"1": {
-				"model": "rusticreforged:leaves_ironwood"
+				"model": "rusticreforged:block/leaves_ironwood"
 			},
 			"2": {
 				"model": "oak_leaves"

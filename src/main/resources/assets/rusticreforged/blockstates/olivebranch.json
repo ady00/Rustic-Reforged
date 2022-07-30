@@ -1,5 +1,5 @@
 {
     "variants": {
-        "normal": { "model": "rusticreforged:olivebranch#dynamictree" }
+        "normal": { "model": "rusticreforged:block/olivebranch#dynamictree" }
     }
 }

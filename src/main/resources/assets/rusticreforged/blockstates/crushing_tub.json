@@ -1,5 +1,5 @@
 {
 	"variants": {
-		"normal":	{ "model": "rusticreforged:crushing_tub" }
+		"normal":	{ "model": "rusticreforged:block/crushing_tub" }
 	}
 }

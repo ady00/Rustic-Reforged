@@ -2,6 +2,6 @@
 	"parent": "block/cube_column",
 	"textures": {
 		"side": "rusticreforged:blocks/pillar_granite_side",
-		"end": "minecraft:blocks/stone_granite_smooth"
+		"end": "minecraft:block/polished_granite"
 	}
 }

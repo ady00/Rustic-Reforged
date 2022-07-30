@@ -1,7 +1,7 @@
 {
 	"forge_marker": 1,
 	"defaults": {
-		"model": "rusticreforged:cabinet"
+		"model": "rusticreforged:block/cabinet"
 	},
 	"variants": {
 		"top": {

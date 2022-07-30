@@ -1,5 +1,5 @@
 {
     "variants": {
-        "normal": { "model": "rusticreforged:ironwoodroot#dynamicroot" }
+        "normal": { "model": "rusticreforged:block/ironwoodroot#dynamicroot" }
     }
 }

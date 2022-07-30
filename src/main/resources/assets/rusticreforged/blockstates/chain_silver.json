@@ -1,9 +1,9 @@
 {
     "multipart": [
-        { "when": { "axis": "x" }, "apply": { "model": "rusticreforged:chain_horizontal_silver", "y": 90 } },
-        { "when": { "axis": "y" }, "apply": { "model": "rusticreforged:chain_silver" } },
-        { "when": { "axis": "z" }, "apply": { "model": "rusticreforged:chain_horizontal_silver" } },
-        { "when": { "axis": "x", "dangle": "true" }, "apply": { "model": "rusticreforged:chain_dangle_silver", "y": 90 } },
-        { "when": { "axis": "y|z", "dangle": "true" }, "apply": { "model": "rusticreforged:chain_dangle_silver" } }
+        { "when": { "axis": "x" }, "apply": { "model": "rusticreforged:block/chain_horizontal_silver", "y": 90 } },
+        { "when": { "axis": "y" }, "apply": { "model": "rusticreforged:block/chain_silver" } },
+        { "when": { "axis": "z" }, "apply": { "model": "rusticreforged:block/chain_horizontal_silver" } },
+        { "when": { "axis": "x", "dangle": "true" }, "apply": { "model": "rusticreforged:block/chain_dangle_silver", "y": 90 } },
+        { "when": { "axis": "y|z", "dangle": "true" }, "apply": { "model": "rusticreforged:block/chain_dangle_silver" } }
     ]
 }

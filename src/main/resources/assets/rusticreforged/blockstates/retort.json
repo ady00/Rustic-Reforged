@@ -1,8 +1,8 @@
 {
 	"variants": {
-		"facing=north":	{ "model": "rusticreforged:retort" },
-		"facing=east":	{ "model": "rusticreforged:retort", "y": 90},
-		"facing=south":	{ "model": "rusticreforged:retort", "y": 180 },
-		"facing=west":	{ "model": "rusticreforged:retort", "y": 270 }
+		"facing=north":	{ "model": "rusticreforged:block/retort" },
+		"facing=east":	{ "model": "rusticreforged:block/retort", "y": 90},
+		"facing=south":	{ "model": "rusticreforged:block/retort", "y": 180 },
+		"facing=west":	{ "model": "rusticreforged:block/retort", "y": 270 }
 	}
 }

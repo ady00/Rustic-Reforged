@@ -1,9 +1,9 @@
 {
 	"variants": {
-		"facing=north":	{ "model": "rusticreforged:candle_wall" },
-		"facing=east":	{ "model": "rusticreforged:candle_wall", "y": 90},
-		"facing=south":	{ "model": "rusticreforged:candle_wall", "y": 180 },
-		"facing=west":	{ "model": "rusticreforged:candle_wall", "y": 270 },
-		"facing=up":	{ "model": "rusticreforged:candle" }
+		"facing=north":	{ "model": "rusticreforged:block/candle_wall" },
+		"facing=east":	{ "model": "rusticreforged:block/candle_wall", "y": 90},
+		"facing=south":	{ "model": "rusticreforged:block/candle_wall", "y": 180 },
+		"facing=west":	{ "model": "rusticreforged:block/candle_wall", "y": 270 },
+		"facing=up":	{ "model": "rusticreforged:block/candle" }
 	}
 }

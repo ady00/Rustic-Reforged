@@ -1,5 +1,5 @@
 {
 	"variants": {
-		"normal":	{ "model": "rusticreforged:painted_wood_silver" }
+		"normal":	{ "model": "rusticreforged:block/painted_wood_silver" }
 	}
 }

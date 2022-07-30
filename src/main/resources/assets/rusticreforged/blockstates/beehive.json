@@ -1,8 +1,8 @@
 {
 	"variants": {
-		"facing=north":	{ "model": "rusticreforged:beehive" },
-		"facing=east":	{ "model": "rusticreforged:beehive", "y": 90},
-		"facing=south":	{ "model": "rusticreforged:beehive", "y": 180 },
-		"facing=west":	{ "model": "rusticreforged:beehive", "y": 270 }
+		"facing=north":	{ "model": "rusticreforged:block/beehive" },
+		"facing=east":	{ "model": "rusticreforged:block/beehive", "y": 90},
+		"facing=south":	{ "model": "rusticreforged:block/beehive", "y": 180 },
+		"facing=west":	{ "model": "rusticreforged:block/beehive", "y": 270 }
 	}
 }

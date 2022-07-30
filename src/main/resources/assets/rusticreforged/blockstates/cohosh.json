@@ -2,13 +2,13 @@
 
     "variants": {
 
-        "age=0": { "model": "rusticreforged:cohosh_seed" },
+        "age=0": { "model": "rusticreforged:block/cohosh_seed" },
 
-        "age=1": { "model": "rusticreforged:cohosh_seed" },
+        "age=1": { "model": "rusticreforged:block/cohosh_seed" },
 
-        "age=2": { "model": "rusticreforged:cohosh_seed" },
+        "age=2": { "model": "rusticreforged:block/cohosh_seed" },
 
-        "age=3": { "model": "rusticreforged:cohosh" }
+        "age=3": { "model": "rusticreforged:block/cohosh" }
 
     }
 }

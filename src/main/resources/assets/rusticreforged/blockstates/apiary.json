@@ -1,8 +1,8 @@
 {
 	"variants": {
-		"facing=north":	{ "model": "rusticreforged:apiary" },
-		"facing=east":	{ "model": "rusticreforged:apiary", "y": 90},
-		"facing=south":	{ "model": "rusticreforged:apiary", "y": 180 },
-		"facing=west":	{ "model": "rusticreforged:apiary", "y": 270 }
+		"facing=north":	{ "model": "rusticreforged:block/apiary" },
+		"facing=east":	{ "model": "rusticreforged:block/apiary", "y": 90},
+		"facing=south":	{ "model": "rusticreforged:block/apiary", "y": 180 },
+		"facing=west":	{ "model": "rusticreforged:block/apiary", "y": 270 }
 	}
 }

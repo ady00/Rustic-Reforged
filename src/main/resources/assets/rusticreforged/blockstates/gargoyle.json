@@ -1,8 +1,8 @@
 {
 	"variants": {
-		"facing=north":	{ "model": "rusticreforged:gargoyle", "y": 180 },
-		"facing=east":	{ "model": "rusticreforged:gargoyle", "y": 270},
-		"facing=south":	{ "model": "rusticreforged:gargoyle" },
-		"facing=west":	{ "model": "rusticreforged:gargoyle", "y": 90 }
+		"facing=north":	{ "model": "rusticreforged:block/gargoyle", "y": 180 },
+		"facing=east":	{ "model": "rusticreforged:block/gargoyle", "y": 270},
+		"facing=south":	{ "model": "rusticreforged:block/gargoyle" },
+		"facing=west":	{ "model": "rusticreforged:block/gargoyle", "y": 90 }
 	}
 }

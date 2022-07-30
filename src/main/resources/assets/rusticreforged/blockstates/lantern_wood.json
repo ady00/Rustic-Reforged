@@ -2,14 +2,14 @@
 	"forge_marker": 1,
 	"variants": {
 		"facing": {
-			"up": { "model": "rusticreforged:lantern_wood" },
-			"north": { "model": "rusticreforged:lantern_wood_wall" },
-			"east": { "model": "rusticreforged:lantern_wood_wall", "y": 90 },
-			"south": { "model": "rusticreforged:lantern_wood_wall", "y": 180 },
-			"west": { "model": "rusticreforged:lantern_wood_wall", "y": 270 }
+			"up": { "model": "rusticreforged:block/lantern_wood" },
+			"north": { "model": "rusticreforged:block/lantern_wood_wall" },
+			"east": { "model": "rusticreforged:block/lantern_wood_wall", "y": 90 },
+			"south": { "model": "rusticreforged:block/lantern_wood_wall", "y": 180 },
+			"west": { "model": "rusticreforged:block/lantern_wood_wall", "y": 270 }
 		},
 		"inventory": {
-			"model": "rusticreforged:lantern_wood"
+			"model": "rusticreforged:block/lantern_wood"
 		}
 	}
 }

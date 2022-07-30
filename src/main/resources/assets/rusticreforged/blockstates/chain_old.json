@@ -1,14 +1,14 @@
 {
     "forge_marker": 1,
-    "defaults": { "model": "rusticreforged:chain" },
+    "defaults": { "model": "rusticreforged:block/chain" },
     "variants": {
         "axis": {
             "y": {  },
-            "z": { "model": "rusticreforged:chain_horizontal" },
-            "x": { "model": "rusticreforged:chain_horizontal", "y": 90 }
+            "z": { "model": "rusticreforged:block/chain_horizontal" },
+            "x": { "model": "rusticreforged:block/chain_horizontal", "y": 90 }
         },
         "dangle": {
-            "true": { "submodel": { "dangle": { "model": "rusticreforged:chain_dangle" } } },
+            "true": { "submodel": { "dangle": { "model": "rusticreforged:block/chain_dangle" } } },
             "false": {}
         },
 	"inventory": []

@@ -1,16 +1,16 @@
 {
     "multipart": [
-		{ "when": { "distance": 0 }, "apply": { "model": "rusticreforged:grape_leaves_0" } },
-		{ "when": { "distance": 0 }, "apply": { "model": "rusticreforged:grape_stem_top" } },
-		{ "when": { "distance": 1, "axis": "x" }, "apply": { "model": "rusticreforged:grape_leaves_1", "y": 90 } },
-		{ "when": { "distance": 1, "axis": "z" }, "apply": { "model": "rusticreforged:grape_leaves_1" } },
+		{ "when": { "distance": 0 }, "apply": { "model": "rusticreforged:block/grape_leaves_0" } },
+		{ "when": { "distance": 0 }, "apply": { "model": "rusticreforged:block/grape_stem_top" } },
+		{ "when": { "distance": 1, "axis": "x" }, "apply": { "model": "rusticreforged:block/grape_leaves_1", "y": 90 } },
+		{ "when": { "distance": 1, "axis": "z" }, "apply": { "model": "rusticreforged:block/grape_leaves_1" } },
 		
-		{ "when": { "axis": "x" }, "apply": { "model": "rusticreforged:grape_vine", "y": 90 } },
-		{ "when": { "axis": "z" }, "apply": { "model": "rusticreforged:grape_vine" } },
+		{ "when": { "axis": "x" }, "apply": { "model": "rusticreforged:block/grape_vine", "y": 90 } },
+		{ "when": { "axis": "z" }, "apply": { "model": "rusticreforged:block/grape_vine" } },
 		
-		{ "when": { "grapes": "true" }, "apply": { "model": "rusticreforged:grapes" } },
+		{ "when": { "grapes": "true" }, "apply": { "model": "rusticreforged:block/grapes" } },
 		
-        { "when": { "axis": "x" }, "apply": { "model": "rusticreforged:rope_horizontal", "y": 90 } },
-        { "when": { "axis": "z" }, "apply": { "model": "rusticreforged:rope_horizontal" } }
+        { "when": { "axis": "x" }, "apply": { "model": "rusticreforged:block/rope_horizontal", "y": 90 } },
+        { "when": { "axis": "z" }, "apply": { "model": "rusticreforged:block/rope_horizontal" } }
     ]
 }

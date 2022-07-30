@@ -2,12 +2,12 @@
 
     "variants": {
 
-        "age=0": { "model": "rusticreforged:grape_stem_0" },
+        "age=0": { "model": "rusticreforged:block/grape_stem_0" },
 
-        "age=1": { "model": "rusticreforged:grape_stem_1" },
+        "age=1": { "model": "rusticreforged:block/grape_stem_1" },
 
-        "age=2": { "model": "rusticreforged:grape_stem_2" },
+        "age=2": { "model": "rusticreforged:block/grape_stem_2" },
 
-        "age=3": { "model": "rusticreforged:grape_stem_3" }
+        "age=3": { "model": "rusticreforged:block/grape_stem_3" }
     }
 }

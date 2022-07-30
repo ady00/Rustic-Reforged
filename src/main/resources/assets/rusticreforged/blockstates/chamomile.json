@@ -2,12 +2,12 @@
 
     "variants": {
 
-        "age=0": { "model": "rusticreforged:chamomile_seed" },
+        "age=0": { "model": "rusticreforged:block/chamomile_seed" },
 
-        "age=1": { "model": "rusticreforged:chamomile_seed" },
+        "age=1": { "model": "rusticreforged:block/chamomile_seed" },
 
-        "age=2": { "model": "rusticreforged:chamomile_seed" },
+        "age=2": { "model": "rusticreforged:block/chamomile_seed" },
 
-        "age=3": { "model": "rusticreforged:chamomile" }
+        "age=3": { "model": "rusticreforged:block/chamomile" }
     }
 }

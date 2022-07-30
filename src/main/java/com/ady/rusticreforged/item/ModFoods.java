@@ -11,5 +11,5 @@ public class ModFoods {
             effect(new MobEffectInstance(MobEffects.MOVEMENT_SLOWDOWN, 300, 2), 1F).
             effect(new MobEffectInstance(MobEffects.DARKNESS, 300, 1), 1F).
             fast().nutrition(2).saturationMod(0.1F).build();
-
 }
+
