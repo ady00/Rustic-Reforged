@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "rusticreforged:blocks/fertile_soil",
 		"down": "rusticreforged:blocks/fertile_soil",
-		"up": "blocks/farmland_wet",
+		"up": "block/farmland_moist",
 		"east": "rusticreforged:blocks/fertile_soil",
 		"west": "rusticreforged:blocks/fertile_soil",
 		"north": "rusticreforged:blocks/fertile_soil",

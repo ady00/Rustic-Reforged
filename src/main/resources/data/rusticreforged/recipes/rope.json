@@ -1,5 +1,5 @@
 {
-	"type": "forge:ore_shaped",
+	"type": "minecraft:crafting_shaped",
 	"pattern": [
 		"S",
 		"S",
@@ -12,6 +12,6 @@
 	},
 	"result": {
 		"item": "rusticreforged:rope",
-		"count": 12
+		"count": 10
 	}
 }

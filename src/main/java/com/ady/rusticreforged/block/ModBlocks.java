@@ -1,6 +1,7 @@
 package com.ady.rusticreforged.block;
 
 import com.ady.rusticreforged.RusticReforged;
+import com.ady.rusticreforged.block.custom.FertileSoilBlock;
 import com.ady.rusticreforged.block.custom.RopeBlock;
 import com.ady.rusticreforged.item.ModCreativeModeTab;
 import com.ady.rusticreforged.item.ModItems;
@@ -28,6 +29,10 @@ public class ModBlocks {
     public static final RegistryObject<Block> SLATE = registerBlock("slate",
             () -> new Block(BlockBehaviour.Properties.of(Material.STONE).
                     noOcclusion().strength(2f).requiresCorrectToolForDrops()), CreativeModeTab.TAB_BUILDING_BLOCKS);
+
+    public static final RegistryObject<Block> FERTILE_SOIL = registerBlock("fertile_soil",
+            () -> new FertileSoilBlock(BlockBehaviour.Properties.of(Material.DIRT)
+                    .sound(SoundType.ROOTED_DIRT).strength(0.5F)), ModCreativeModeTab.FARMING_TAB);
 
 
     // rope voxel shape

@@ -1,5 +1,6 @@
 {
 	"variants": {
-		"normal":	{ "model": "rusticreforged:block/fertile_soil" }
-	}
+		"": {
+				"model": "rusticreforged:block/fertile_soil" }
+			}
 }
