@@ -3,6 +3,8 @@ package com.ady.rusticreforged;
 import com.ady.rusticreforged.block.ModBlocks;
 import com.ady.rusticreforged.item.ModItems;
 import com.mojang.logging.LogUtils;
+import net.minecraft.client.renderer.ItemBlockRenderTypes;
+import net.minecraft.client.renderer.RenderType;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.eventbus.api.SubscribeEvent;

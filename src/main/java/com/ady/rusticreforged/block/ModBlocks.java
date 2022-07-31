@@ -1,6 +1,7 @@
 package com.ady.rusticreforged.block;
 
 import com.ady.rusticreforged.RusticReforged;
+import com.ady.rusticreforged.block.custom.RopeBlock;
 import com.ady.rusticreforged.item.ModCreativeModeTab;
 import com.ady.rusticreforged.item.ModItems;
 import net.minecraft.world.item.BlockItem;
@@ -8,6 +9,7 @@ import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.RotatedPillarBlock;
+import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.material.Material;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -24,8 +26,14 @@ public class ModBlocks {
 
 
     public static final RegistryObject<Block> SLATE = registerBlock("slate",
-            () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(2f).requiresCorrectToolForDrops()), CreativeModeTab.TAB_BUILDING_BLOCKS);
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).
+                    noOcclusion().strength(2f).requiresCorrectToolForDrops()), CreativeModeTab.TAB_BUILDING_BLOCKS);
+
+
+    // rope voxel shape
+    public static final RegistryObject<Block> ROPE = registerBlock("rope",
+            () -> new RopeBlock(BlockBehaviour.Properties.of(Material.WOOL).
+                    instabreak().sound(SoundType.WOOL)), ModCreativeModeTab.FARMING_TAB);
 
     public static final RegistryObject<Block> STONE_PILLAR = registerBlock("stone_pillar",
             () -> new RotatedPillarBlock(BlockBehaviour.Properties.of(Material.STONE)
