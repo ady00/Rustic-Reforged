@@ -1,6 +1,6 @@
 {
-    "parent": "block/cross",
+    "parent": "minecraft:block/crop",
     "textures": {
-        "cross": "rusticreforged:blocks/herbs/blood_orchid_seed"
+        "crop": "rusticreforged:blocks/herbs/blood_orchid_seed"
     }
 }

@@ -7,7 +7,7 @@ public class ModCreativeModeTab {
     public static final CreativeModeTab FARMING_TAB = new CreativeModeTab("farmingtab") {
         @Override
         public ItemStack makeIcon() {
-            return new ItemStack(ModItems.APPLE_SEEDS.get());
+            return new ItemStack(ModItems.GRAPE_SEEDS.get());
         }
     };
 }

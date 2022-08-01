@@ -1,6 +1,6 @@
 {
-    "parent": "block/cross",
+    "parent": "minecraft:block/crop",
     "textures": {
-        "cross": "rusticreforged:blocks/herbs/marsh_mallow"
+        "crop": "rusticreforged:blocks/herbs/marsh_mallow"
     }
 }

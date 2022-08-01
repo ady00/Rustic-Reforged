@@ -1,6 +1,7 @@
 package com.ady.rusticreforged.block;
 
 import com.ady.rusticreforged.RusticReforged;
+import com.ady.rusticreforged.block.custom.BlockGrapeStem;
 import com.ady.rusticreforged.block.custom.FertileSoilBlock;
 import com.ady.rusticreforged.block.custom.RopeBlock;
 import com.ady.rusticreforged.item.ModCreativeModeTab;
@@ -9,6 +10,7 @@ import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
+import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.level.block.RotatedPillarBlock;
 import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.state.BlockBehaviour;
@@ -35,10 +37,22 @@ public class ModBlocks {
                     .sound(SoundType.ROOTED_DIRT).strength(0.5F)), ModCreativeModeTab.FARMING_TAB);
 
 
+
+    public static final RegistryObject<Block> BLOCK_GRAPE_STEM = registerBlockWithoutBlockItem("grape_stem",
+            () -> new BlockGrapeStem(BlockBehaviour.Properties.copy(Blocks.WHEAT).noOcclusion()));
+
+
+    private static <T extends Block> RegistryObject<T> registerBlockWithoutBlockItem(String name, Supplier<T> block) {
+        return BLOCKS.register(name, block);
+    }
+
+
+
+
     // rope voxel shape
     public static final RegistryObject<Block> ROPE = registerBlock("rope",
             () -> new RopeBlock(BlockBehaviour.Properties.of(Material.WOOL).
-                    instabreak().sound(SoundType.WOOL)), ModCreativeModeTab.FARMING_TAB);
+                    instabreak().sound(SoundType.BAMBOO)), ModCreativeModeTab.FARMING_TAB);
 
     public static final RegistryObject<Block> STONE_PILLAR = registerBlock("stone_pillar",
             () -> new RotatedPillarBlock(BlockBehaviour.Properties.of(Material.STONE)

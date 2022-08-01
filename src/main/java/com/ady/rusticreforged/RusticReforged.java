@@ -33,6 +33,8 @@ public class RusticReforged {
 
     private void commonSetup(final FMLCommonSetupEvent event) {
 
+        ItemBlockRenderTypes.setRenderLayer(ModBlocks.BLOCK_GRAPE_STEM.get(), RenderType.cutout());
+
     }
 
     @Mod.EventBusSubscriber(modid = MOD_ID, bus = Mod.EventBusSubscriber.Bus.MOD)

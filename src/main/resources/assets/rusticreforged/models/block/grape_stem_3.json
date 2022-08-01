@@ -1,9 +1,10 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
+    "texture_size": [64,64],
     "textures": {
-        "0": "blocks/log_oak",
-        "1": "blocks/log_oak_top",
-	"particle": "blocks/log_oak"
+        "0": "minecraft:block/oak_log",
+        "1": "minecraft:block/oak_log_top",
+	"particle": "minecraft:block/oak_log"
     },
     "elements": [
         {

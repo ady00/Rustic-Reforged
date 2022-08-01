@@ -1,6 +1,6 @@
 {
-    "parent": "block/cross",
+    "parent": "minecraft:block/crop",
     "textures": {
-        "cross": "rusticreforged:blocks/herbs/horsetail_seed"
+        "crop": "rusticreforged:blocks/herbs/horsetail_seed"
     }
 }
